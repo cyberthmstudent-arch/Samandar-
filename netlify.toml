@@ -1,0 +1,7 @@
+[build]
+ function="funtions"
+
+ [[redirects]]
+ ta="/.netlify/functions/api/:splat"
+ from="/*"
+ status=200
